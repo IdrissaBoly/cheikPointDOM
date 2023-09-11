@@ -1,0 +1,74 @@
+.liked {
+    color: red;
+}
+
+
+body {
+    height: 1100px;
+    width: 800px;
+    /* border: 1px solid black; */
+    border-radius: 3px;
+    background-color: aqua;
+  }
+
+
+
+
+
+  /* Définir la classe .MyProductDIv pour les éléments de produit */
+.MyProductDIv {
+    /* border: 1px solid black; */
+    padding: 10px;
+  }
+  
+  /* Définir la classe .productName pour les en-têtes de produit */
+  .productName {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  /* Définir la classe .productDescription pour les descriptions de produit */
+  .productDescription {
+    font-size: 14px;
+  }
+  
+  /* Définir la classe .productPrice pour les prix des produits */
+  .productPrice {
+    font-size: 12px;
+    font-weight: bold;
+  }
+  
+  /* Définir la classe .productColors pour les listes de couleurs des produits */
+  .productColors {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Définir la classe .productColor pour les éléments de liste de couleurs des produits */
+  .productColor {
+    margin-bottom: 5px;
+  }
+  
+  /* Définir la classe .likeButton pour les boutons J'aime */
+  .likeButton {
+    background-color: gray;
+    color: black;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+
+
+
+  .MyProductDIv img {
+    width: 200px;
+    height: 200px;
+    /* margin-right: 10px; */
+    /* margin-bottom: 10px;
+    display: block;
+    float: left;
+    border: 1px solid black; */
+}
+
+
+
